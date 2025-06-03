@@ -136,7 +136,6 @@ I am very grateful for the following resources which have been used in the creat
 * Database snapshot for base original data provided from PlaneBase, [mictronics aircraft database](https://www.mictronics.de/aircraft-database/export.php). Ongoing updates from VRS Standing Data and various user contributions.
 * Docker container base image, original container and other docker related fun-times ([SDR Enthusiasts](https://github.com/sdr-enthusiasts))
 * Virtual Radar Server docker image (rhodan76) [VRS docker by rhodan76](https://github.com/sdr-enthusiasts/docker-virtualradarserver)
-* Container maintainer (CaelynInc)
 * [Sideviews](https://github.com/rikgale/VRSOperatorFlags) and [Silhoeuttes](https://github.com/rikgale/VRSOperatorFlags) (rikgale)
 * [Additonal Aircraft Markers](https://github.com/rikgale/VRSCustomMarkers) (rikgale)
 * [Map overlays](https://github.com/rikgale/VRSCustomLayers) (rikgale)
