@@ -1,6 +1,6 @@
 FROM ghcr.io/sdr-enthusiasts/docker-baseimage:base
 LABEL org.opencontainers.image.source=https://github.com/caelyninc/vrs-thumb
-LABEL org.opencontainers.image.description="VRS v3 Docker image with airplane thumbnails"
+LABEL org.opencontainers.image.description="VRS v3 Docker image with thumbnails"
 LABEL org.opencontainers.image.licenses=GPL-3.0
 RUN set -x && \
 # define packages needed for installation and general management of the container:
