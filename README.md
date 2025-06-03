@@ -4,7 +4,7 @@ Dockerized version of [VirtualRadarServer](https://www.virtualradarserver.co.uk/
 
 Current and latest release is on the `:main` branch.
 
-WebAdmin is configured to be unrestricted, for deployment on non-LAN. This can (and ***SHOULD***) be changed through the WebAdmin after initial setup.
+WebAdmin is configured to be unrestricted, for deployment on remote and headless systems. This can (and ***SHOULD***) be changed through the WebAdmin after initial setup.
 
 ## To-Do
 - SSL (via proxy?)
