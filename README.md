@@ -127,7 +127,7 @@ If not stated otherwise, the envvars should be set to "yes" or "true" (or actual
 
 **THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.**
 
-SDR Enthusiasts are very grateful for the following resources which have been used in the creation of this container:
+I am very grateful for the following resources which have been used in the creation of this container:
 
 * Virtual Radar Server (Andrew Whewell) [VRS on GitHub](https://github.com/vradarserver/vrs) / [VRS Website](http://www.virtualradarserver.co.uk/)
 * Database snapshot for base original data provided from PlaneBase, [mictronics aircraft database](https://www.mictronics.de/aircraft-database/export.php). Ongoing updates from VRS Standing Data and various user contributions.
