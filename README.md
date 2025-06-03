@@ -97,8 +97,7 @@ The container image comes with the following preinstalled VRS V3 [plugins](https
 * SQL Server
 * Tile Server Cache
 * Web Admin
-
-(batteries are not included)
+* Resurection of photo thumbnails
 
 ## Environment variables
 
