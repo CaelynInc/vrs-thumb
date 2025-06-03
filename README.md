@@ -1,4 +1,4 @@
-# docker-virtualradarserver
+# Virtual Radar Server (with thumbnails) in Docker
 
 Dockerized version of [VirtualRadarServer](https://www.virtualradarserver.co.uk/) for Linux. Based on [VRS Docker](https://github.com/sdr-enthusiasts/docker-virtualradarserver) to restore the picture thumbnails.
 
