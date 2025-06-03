@@ -55,4 +55,4 @@ echo "alias nano=\"nano -l\"" >> /root/.bashrc
 COPY rootfs/ /
 
 EXPOSE 8080
-EXPOSE 443
+#EXPOSE 443
