@@ -6,6 +6,9 @@ Current and latest release is on the `:main` branch.
 
 WebAdmin is configured to be unrestricted, for deployment on non-LAN. This can (and ***SHOULD***) be changed through the WebAdmin after initial setup.
 
+## To-Do
+- SSL via proxy
+
 ## Requirements
 This container initially expects SBS data input via network from a running instance of e.g. [readsb-protobuf](https://github.com/sdr-enthusiasts/docker-readsb-protobuf), [readsb bare-metal](https://github.com/wiedehopf/readsb) or [tar1090](https://github.com/sdr-enthusiasts/docker-tar1090) (as long it's attached to your SDR). Any other data sources _should_ work, as long they offer one of the [supported formats](https://www.virtualradarserver.co.uk/Documentation/WebServer/ReceiversOptions.aspx).
 
