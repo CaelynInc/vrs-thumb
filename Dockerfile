@@ -1,5 +1,5 @@
 FROM ghcr.io/sdr-enthusiasts/docker-baseimage:base
-LABEL org.opencontainers.image.source=https://github.com/caelyninc/docker-virtualradarserver
+LABEL org.opencontainers.image.source=https://github.com/caelyninc/vrs-thumb
 LABEL org.opencontainers.image.description="VRS v3 Docker image with airplane thumbnails"
 LABEL org.opencontainers.image.licenses=GPL-3.0
 RUN set -x && \
